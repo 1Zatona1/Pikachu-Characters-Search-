@@ -1,0 +1,25 @@
+body{
+    background-color: hsla(195, 53%, 79%, 0.774);
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+#myInput{
+    font-size: 2rem;
+}
+button{
+    font-size: 2rem;
+}
+img{
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    font-weight: bold;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
